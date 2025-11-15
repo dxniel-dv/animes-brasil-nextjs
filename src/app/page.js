@@ -10,7 +10,7 @@ export default function Home() {
       <Header />
       <Container>
         <Content>
-          <Title>Página dedicada a fãs de animes! 🎌</Title>
+          <Title>Página dedicada a todos os Animes! 🎌</Title>
           <Subtitle>
             Explore, descubra e compartilhe seus animes favoritos.
           </Subtitle>
