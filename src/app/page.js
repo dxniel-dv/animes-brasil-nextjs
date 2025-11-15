@@ -10,9 +10,9 @@ export default function Home() {
       <Header />
       <Container>
         <Content>
-          <Title>TESTE</Title>
+          <Title>Site Dedicado para Fans de Anime!</Title>
           <Subtitle>
-            SUCESSO
+            Aproveite!
           </Subtitle>
 
         </Content>
