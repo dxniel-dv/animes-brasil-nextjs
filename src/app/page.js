@@ -10,9 +10,9 @@ export default function Home() {
       <Header />
       <Container>
         <Content>
-          <Title>Página dedicada a todos os Animes! 🎌</Title>
+          <Title>TESTE</Title>
           <Subtitle>
-            Explore, descubra e compartilhe seus animes FAVORITOS (TESTE FINAL)!
+            SUCESSO
           </Subtitle>
 
         </Content>
