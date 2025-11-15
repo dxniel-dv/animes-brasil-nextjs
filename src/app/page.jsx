@@ -10,9 +10,9 @@ export default function Home() {
       <Header /> {/* ✅ adiciona o cabeçalho fixo */}
       <Container>
         <Content>
-          <Title>Página dedicada a fãs de animes! 🎌</Title>
+          <Title>Página dedicada a todos os Animes! 🎌</Title>
           <Subtitle>
-            Explore, descubra e compartilhe seus animes favoritos.
+            Explore, descubra e compartilhe seus animes FAVORITOS (TESTE FINAL)!
           </Subtitle>
 
           {/* <ButtonWrapper>
