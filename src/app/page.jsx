@@ -12,7 +12,7 @@ export default function Home() {
         <Content>
           <Title>Site Dedicado para Fans de Anime!</Title>
           <Subtitle>
-            Aproveite!
+            Aproveite!!
           </Subtitle>
 
           {/* <ButtonWrapper>
