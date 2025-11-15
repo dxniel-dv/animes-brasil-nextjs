@@ -12,7 +12,7 @@ export default function Home() {
         <Content>
           <Title>Página dedicada a todos os Animes! 🎌</Title>
           <Subtitle>
-            Explore, descubra e compartilhe seus animes favoritos.
+            Explore, descubra e compartilhe seus animes FAVORITOS (TESTE FINAL)!
           </Subtitle>
 
         </Content>
